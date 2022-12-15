@@ -1,0 +1,14 @@
+body{
+    background-color: #e9b9aa;
+    color: #fafafa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #333;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.error { 
+    font-size:small; color:red; 
+}
